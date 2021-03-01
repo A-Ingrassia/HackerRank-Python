@@ -24,16 +24,6 @@
 # Print one line - the average of the grades obtained by the particular student, correct to 2 decimal places.
 
 
-# EXAMPLE:
-#   Grades key:value pairs:
-#       a. 'Andy': [20, 30, 40]
-#       b. 'Chelsea': [30, 50, 70]
-#
-#   query_name = 'Chelsea'
-#
-#   Chelsea's average score: (30 + 50 + 70) / 3 = 50.0
-
-
 # SAMPLE INPUTS:
 #   3
 #   Eva 67 68 69
