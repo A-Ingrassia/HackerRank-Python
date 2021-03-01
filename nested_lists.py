@@ -74,7 +74,7 @@ for _ in range(int(input())):
 
 second_highest = sorted(list(set(score_only)))[1]
 
-# Creates a new list that represents a sorted version of 'score_only'
+# Created a new list that represents a sorted version of 'score_only'
 # Eliminates duplicates (by making this list into into a set)
 # Chooses the second highest float in the list (in position [1])
 
