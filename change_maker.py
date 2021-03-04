@@ -1,5 +1,5 @@
 # Andrew Ingrassia
-# HackerRank (Launch Code Puzzle)
+# HackerRank (LaunchCode Puzzle)
 # Change Maker
 
 
