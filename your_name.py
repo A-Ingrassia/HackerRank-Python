@@ -42,5 +42,5 @@ if __name__ == '__main__':
 EXPLANATION: 
     'first_name' is parameter 'a', and 'last_name' is parameter 'b', so I simply replaced 'firstname' and 
     'lastname' from the required output string using an f string (and added .title() just in case the user
-    didn't use capitalization. 
+    didn't use capitalization). 
 """
